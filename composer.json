@@ -14,9 +14,6 @@
       "email": "ops1@tpu.ru"
     }
   ],
-  "require": {
-    "php": ">=7.0.0"
-  },
   "autoload": {
     "psr-4": {
       "ISPager\\": "src/"
