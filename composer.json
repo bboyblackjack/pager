@@ -14,10 +14,8 @@
       "email": "ops1@tpu.ru"
     }
   ],
-  "support": "ops1@tpu.ru",
   "require": {
-    "php": ">=7.0.0",
-    "robmorgan/phinx": "*"
+    "php": ">=7.0.0"
   },
   "autoload": {
     "psr-4": {
