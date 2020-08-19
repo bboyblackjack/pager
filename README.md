@@ -1,4 +1,4 @@
-#Тестовый компонент «Pager»
+# Тестовый компонент «Pager»
 ```html
 <div class="test">
     <ul>
